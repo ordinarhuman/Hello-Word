@@ -2,4 +2,9 @@
 Meeting git
 
 Now i will make some changes
-I want to learn how to create edit and merge brunch
+
+Some text was deleted
+I changed it to this text
+More practice
+some expirience
+i need to broke git)
